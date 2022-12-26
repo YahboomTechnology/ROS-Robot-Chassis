@@ -1,0 +1,1 @@
+All motors are used with STM32-ROS expansion board. The specific model of STM32 is STM32F103RCT6
